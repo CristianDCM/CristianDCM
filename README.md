@@ -9,7 +9,7 @@
 * 📰   Read my **[Blog](https://netcube.tech/)**
 * 🐧:   Contact me directly on my Discord **Parchao#3724**
 * 📬:   Email me about anything at [cristianzdmc14@gmail.com](mailto:cristianzdmc14@gmail.com)
-* 🐦  Follow me on [Twitter](https://twitter.com/Cristianzdmc14)
+* 🐦  Follow me on [Twitter - X](https://twitter.com/Cristianzdmc14)
 
 #
 

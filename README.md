@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=1000&color=F29F05&center=falso&vCenter=falso&repeat=verdadero&random=falso&width=455&height=45&lines=‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ %F0%9F%91%8B+Hello+there!+I'm+Cristian;Thanks+for+visiting+my+GitHub+Profile!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=1000&color=F29F05&center=false&vCenter=false&repeat=true&random=false&width=455&height=45&lines=%F0%9F%91%8B+Hello+there!+I'm+Cristian;Thanks+for+visiting+my+GitHub+Profile!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
 </p>
 <p align="center">
 😄 I am currently learning a little bit of everything trying to find something effective and practical for my projects, I have many ideas and few methods to achieve them, so I am here to try to improve my way of working and eventually advance in my career!
